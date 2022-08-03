@@ -14,6 +14,39 @@ header {
   position: relative;
   overflow-x: hidden;
 }
+.rewards-bar {
+  height: 210px;
+  width: 1400px;
+  margin: 50px auto;
+}
+.rewards-bar img {
+  height: 210px;
+}
+
+.rewards-detail {
+  width: 681px;
+  background-color: #1E3932;
+  height: 210px;
+  margin: -214px 0 0 720px;
+}
+.rewards-detail p {
+  padding-top: 50px;
+  color: white;
+  font-size: 1.25rem;
+  font-family: "Merriweather Sans", sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+.rewards-detail a{
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-size: 0.9rem;
+  border: 1px solid white;
+  padding: 0.5rem;
+  border-radius: 25px;
+}
+
 nav {
   width: 100%;
   height: 6.25rem;
@@ -32,37 +65,37 @@ nav {
   padding-top: 0.313rem;
   width: 4.75rem;
 }
-.sign{
-    position: relative;
-    right: -100px;
+.sign {
+  position: relative;
+  right: -100px;
 }
-#signin{
-    text-decoration: none;
-    color: black;
-    font-size: 1.25rem;
-    font-family: "Merriweather Sans", sans-serif;
-    background-color: white;
-    border: solid black;
-    border-radius: 25px;
-    padding-right: 20px;
-    padding-left: 20px;
-    margin: 10px;
-    position: relative;
-    left: 2px;
+#signin {
+  text-decoration: none;
+  color: black;
+  font-size: 1.25rem;
+  font-family: "Merriweather Sans", sans-serif;
+  background-color: white;
+  border: solid black;
+  border-radius: 25px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin: 10px;
+  position: relative;
+  left: 2px;
 }
-.sign a{
-    text-decoration: none;
-    color: white;
-    font-size: 1.25rem;
-    font-family: "Merriweather Sans", sans-serif;
-    background-color: black;
-    border: solid black;
-    border-radius: 25px;
-    padding-right: 20px;
-    padding-left: 20px;
-    margin: 10px;
-    position: relative;
-    left: 2px;
+.sign a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.25rem;
+  font-family: "Merriweather Sans", sans-serif;
+  background-color: black;
+  border: solid black;
+  border-radius: 25px;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin: 10px;
+  position: relative;
+  left: 2px;
 }
 #navitem {
   font-size: 1.25rem;
