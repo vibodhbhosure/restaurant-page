@@ -248,14 +248,10 @@ textarea.contact-form-text {
   background: #2980b9;
 }
 .food-menu{
-  /* border: 2px solid red; */
   height: 400px;
   width: 100%;
-  /* margin-bottom: 300px; */
-  /* overflow-x: hidden; */
 }
 .overall-menu{
-  /* border: 2px solid red; */
   height: 100px;
   width: 200px;
   float: left;
@@ -266,13 +262,11 @@ textarea.contact-form-text {
   margin-bottom: 20px;
 }
 .main-menu{
-  /* border: 2px solid green; */
   height: 100px;
   width: 900px;
   float: left;
   margin-left: 50px;
   margin-top: 10px;
-  /* overflow-y: hidden; */
   scrollbar-width: none;
 
 }
