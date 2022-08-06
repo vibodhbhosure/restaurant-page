@@ -63,6 +63,7 @@ p{
     display: block;
 }
 button{
+    border: none;
     height: 25px;
     margin-top: 30px;
     margin-left: 40px;
