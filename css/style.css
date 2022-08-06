@@ -4,6 +4,7 @@
   margin: 0;
   list-style: none;
   text-decoration: none;
+  
 }
 header {
   width: 100%;
@@ -60,7 +61,7 @@ header {
   align-items: center;
 }
 .sticky-nav-list{
-  margin-left: 9rem;
+  margin-left: 135px;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
@@ -130,6 +131,7 @@ nav {
   font-size: 1.25rem;
   right: 48.88rem;
 }
+
 .menu a {
   font-family: "Merriweather Sans", sans-serif;
   color: #000;
@@ -245,7 +247,47 @@ textarea.contact-form-text {
 .contact-form-btn:hover {
   background: #2980b9;
 }
+.food-menu{
+  /* border: 2px solid red; */
+  height: 400px;
+  width: 100%;
+  /* margin-bottom: 300px; */
+  /* overflow-x: hidden; */
+}
+.overall-menu{
+  /* border: 2px solid red; */
+  height: 100px;
+  width: 200px;
+  float: left;
+  margin-left: 150px;
+}
+.overall-menu li{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.main-menu{
+  /* border: 2px solid green; */
+  height: 100px;
+  width: 900px;
+  float: left;
+  margin-left: 50px;
+  margin-top: 10px;
+  /* overflow-y: hidden; */
+  scrollbar-width: none;
 
+}
+.circle{
+  height: 125px;
+  width: 125px;
+  border-radius: 50%;
+  background-color: #1F3933;
+}
+td{
+  padding: 20px;
+}
+.right-table{
+  padding-left: 150px;
+}
 .section {
   width: 100%;
   min-height: 67vh;
