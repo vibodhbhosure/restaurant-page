@@ -72,7 +72,7 @@ nav {
 #signin {
   text-decoration: none;
   color: black;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-family: "Merriweather Sans", sans-serif;
   background-color: white;
   border: solid black;
@@ -86,7 +86,7 @@ nav {
 .sign a {
   text-decoration: none;
   color: white;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-family: "Merriweather Sans", sans-serif;
   background-color: black;
   border: solid black;
@@ -98,7 +98,7 @@ nav {
   left: 2px;
 }
 #navitem {
-  font-size: 1.25rem;
+  font-size: 1rem;
   position: relative;
   right: 23.125rem;
 }
