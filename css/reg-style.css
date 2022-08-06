@@ -1,0 +1,74 @@
+*{
+    font-family: "Merriweather Sans", sans-serif;
+}
+.container {
+  height: 700px;
+  width: 500px;
+  margin: 0px auto;
+  background-color: #f9f7f7;
+}
+.bar {
+  height: 10px;
+  margin: 0px auto;
+  background-color: #535e34;
+}
+h1 {
+  margin: 0px;
+  text-align: center;
+  line-height: 2;
+}
+
+.name-container{
+    width: 400px;
+    height: 200px;
+}
+p{
+    margin-left: 40px;
+}
+.text{
+    width: 400px;
+    margin-left: 40px;
+    height: 25px;
+}
+.fname{
+    display: inline-block;
+    width: 175px;
+    height: 25px;
+    margin-left: 40px;
+    
+}
+.lname{
+    width: 175px;
+    display: inline-block;
+    height: 25px;
+    margin-left: 40px;
+}
+.fname-text{
+    margin-left: 40px;
+    display: inline-block;
+}
+.lname-text{
+    margin-left: 130px;
+    display: inline-block;
+    margin-right: 110px;
+}
+#gender{
+    display: inline-block;
+    margin-right: 55px;
+}
+#female{
+    margin-left: 35px;
+}
+#select{
+    display: block;
+}
+button{
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 40px;
+    width: 400px;
+    background-color: #535e34;
+    color: #f9f7f7;
+    font-size: 17px;
+}
+
